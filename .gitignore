@@ -1,3 +1,4 @@
-followings_output.xlsx
+cookies.json
 __pycache__/
-*.pyc
+*.xlsx
+*.csv
